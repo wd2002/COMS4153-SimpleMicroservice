@@ -52,8 +52,8 @@ class CategoryCreate(CategoryBase):
         "json_schema_extra": {
             "examples": [
                 {
-                    "name": "Electronics",
-                    "description": "Laptops, tablets, chargers, and tech accessories",
+                    "name": "Apparel",
+                    "description": "University-branded clothing and apparel",
                     "is_active": True,
                 }
             ]
